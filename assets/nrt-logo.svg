@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="220" viewBox="0 0 980 220" fill="none">
+  <rect width="980" height="220" fill="transparent"/>
+  <text
+    x="0"
+    y="150"
+    fill="#0B8DBF"
+    font-family="Avenir Next, Helvetica Neue, Arial, sans-serif"
+    font-size="178"
+    font-weight="800"
+    letter-spacing="-7"
+  >
+    NRT
+  </text>
+  <text
+    x="420"
+    y="82"
+    fill="#949AA3"
+    font-family="Avenir Next, Helvetica Neue, Arial, sans-serif"
+    font-size="80"
+    font-weight="400"
+    letter-spacing="-2"
+  >
+    Behavioral
+  </text>
+  <text
+    x="420"
+    y="170"
+    fill="#949AA3"
+    font-family="Avenir Next, Helvetica Neue, Arial, sans-serif"
+    font-size="80"
+    font-weight="400"
+    letter-spacing="-2"
+  >
+    Health
+    <tspan dx="8" dy="-36" font-size="34" font-weight="600">TM</tspan>
+  </text>
+</svg>
